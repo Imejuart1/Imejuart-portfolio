@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Imejuart-portfolio/static/css/main.e380d7a0.css",
+    "main.js": "/Imejuart-portfolio/static/js/main.ab49df2f.js",
+    "static/media/play.png": "/Imejuart-portfolio/static/media/play.adc2442bc807d1832b9e.png",
+    "static/media/naruto.png": "/Imejuart-portfolio/static/media/naruto.db462708a99693bc7fde.png",
+    "static/media/draco.png": "/Imejuart-portfolio/static/media/draco.bf24d29d44d5212ab87f.png",
+    "static/media/girl.png": "/Imejuart-portfolio/static/media/girl.b7ad2c45bc1382354d63.png",
+    "static/media/CV.pdf": "/Imejuart-portfolio/static/media/CV.5a9364e919238b0dbfce.pdf",
+    "static/media/eju.PNG": "/Imejuart-portfolio/static/media/eju.a8bc1d1c5f9847478d61.PNG",
+    "static/media/leo.png": "/Imejuart-portfolio/static/media/leo.406ffebbae10cb9e74dc.png",
+    "static/media/born.jpg": "/Imejuart-portfolio/static/media/born.80ac4cab1f106dbd86aa.jpg",
+    "static/media/fam.png": "/Imejuart-portfolio/static/media/fam.812158fcae49526c8430.png",
+    "index.html": "/Imejuart-portfolio/index.html",
+    "main.e380d7a0.css.map": "/Imejuart-portfolio/static/css/main.e380d7a0.css.map",
+    "main.ab49df2f.js.map": "/Imejuart-portfolio/static/js/main.ab49df2f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e380d7a0.css",
+    "static/js/main.ab49df2f.js"
+  ]
+}
