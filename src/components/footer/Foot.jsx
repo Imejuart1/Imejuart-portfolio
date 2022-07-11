@@ -9,7 +9,7 @@ import {AiFillYoutube} from 'react-icons/ai'
 const foot = () => {
   return (
     <footer>
-      <a href="#" className='footer_logo'>EGATOR</a>
+      <a href="#" className='footer_logo'>IMEJUART</a>
 
       <ul className='permalinks'>
         <li><a href='#' target="_blank">Home</a></li>
