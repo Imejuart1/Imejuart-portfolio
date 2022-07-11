@@ -1,7 +1,7 @@
 import React from 'react'
 import './port.css'
 import img1 from '../../assets/ipay.png'
-import img2 from '../../assets/draco.png'
+import img2 from '../../assets/receive.png'
 import img3 from '../../assets/fam.png'
 import img4 from '../../assets/girl.png'
 import img5 from '../../assets/naruto.png'
@@ -17,9 +17,9 @@ const data=[
 {
   id:2,
   image: img2,
-  title: 'Draco fanart',
-  github: 'https://github.com/imejuart1',
-  demo: 'https://github.com/imejuart1'
+  title: 'Receive-home page',
+  github: 'https://github.com/Imejuart1/PaywithReceive',
+  demo: 'https://paywith-receive.vercel.app/'
 },
 {
   id:3,
