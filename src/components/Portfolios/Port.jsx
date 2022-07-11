@@ -1,6 +1,6 @@
 import React from 'react'
 import './port.css'
-import img1 from '../../assets/born.jpg'
+import img1 from '../../assets/ipay.png'
 import img2 from '../../assets/draco.png'
 import img3 from '../../assets/fam.png'
 import img4 from '../../assets/girl.png'
