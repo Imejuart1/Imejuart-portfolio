@@ -4,7 +4,7 @@ import img1 from '../../assets/ipay.png'
 import img2 from '../../assets/receive.png'
 import img3 from '../../assets/intern.png'
 import img4 from '../../assets/register.png'
-import img5 from '../../assets/naruto.png'
+import img5 from '../../assets/code-challenge.png'
 import img6 from '../../assets/play.png'
 const data=[
 {
@@ -39,9 +39,9 @@ demo: 'https://imejuart1.github.io/GROUP-56-2-/'
 {
 id:5,
 image: img5,
-title: 'my 5 top animease46',
-github: 'https://github.com/imejuart1',
-demo: 'https://github.com/imejuart1'
+title: 'Code challenge',
+github: 'http://jsfiddle.net/Imejuart/Lf48vm0d/',
+demo: 'http://jsfiddle.net/Imejuart/Lf48vm0d/'
 },
 {
   id:6,
