@@ -10,9 +10,9 @@ const data=[
 {
   id:1,
   image: img1,
-  title: 'Born to defend',
-  github: 'https://github.com/imejuart1',
-  demo: 'https://github.com/imejuart1' 
+  title: 'IPAY',
+  github: 'https://github.com/Imejuart1/iPay',
+  demo: 'https://receive022.netlify.app/' 
 },
 {
   id:2,
