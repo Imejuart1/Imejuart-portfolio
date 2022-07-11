@@ -2,7 +2,7 @@ import React from 'react'
 import './port.css'
 import img1 from '../../assets/ipay.png'
 import img2 from '../../assets/receive.png'
-import img3 from '../../assets/fam.png'
+import img3 from '../../assets/intern.png'
 import img4 from '../../assets/girl.png'
 import img5 from '../../assets/naruto.png'
 import img6 from '../../assets/play.png'
@@ -24,9 +24,9 @@ const data=[
 {
   id:3,
   image: img3,
-  title: 'Naruto family fan art',
-  github: 'https://github.com/imejuart1',
-  demo: 'https://github.com/imejuart1'
+  title: 'Group 56',
+  github: 'https://github.com/Imejuart1/GROUP-56',
+  demo: 'https://imejuart1.github.io/GROUP-56/'
 
 },
 {
